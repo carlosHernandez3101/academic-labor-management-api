@@ -1,7 +1,7 @@
 package com.unicauca.edu.asae.core.docente.infraestructura.output.persistencia.gateway;
 
-import com.unicauca.edu.asae.core.aplicacion.output.IGestionarDocenteGatewayPort;
-import com.unicauca.edu.asae.core.dominio.models.Docente;
+import com.unicauca.edu.asae.core.docente.aplicacion.output.IGestionarDocenteGatewayPort;
+import com.unicauca.edu.asae.core.docente.dominio.models.Docente;
 import com.unicauca.edu.asae.core.docente.infraestructura.output.persistencia.repositorios.DocenteRepositoryInt;
 import org.modelmapper.ModelMapper;
 
